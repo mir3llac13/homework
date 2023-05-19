@@ -1,0 +1,15 @@
+<img src="image.jpg" alt="Description of the image">
+
+<a href="https://www.example.com">
+  <img src="image.jpg" alt="Description of the image">
+</a>
+
+<div style="background-color: #ff2800;">Red background</div>
+
+<style>
+  body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
