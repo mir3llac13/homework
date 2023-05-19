@@ -1,0 +1,20 @@
+//HW1
+// Link to another site
+window.location.href = "https://www.example.com";
+
+// Link to an anchor within the current page
+window.location.href = "#sectionId";
+
+// Link to a page on the same site
+window.location.href = "/page.html";
+
+
+// Link that dials a number
+window.location.href = "tel:+1234567890";
+
+
+// Open the link in a new tab
+window.open("https://www.example.com", "_blank");
+
+// Open the link in a new window
+window.open("https://www.example.com", "_blank", "noopener");
