@@ -1,1 +1,12 @@
-
+<input type="hidden" name="hiddenInput" value="hidden value">
+<input type="tel" name="phoneNumber" placeholder="Enter phone number">
+<input type="email" name="emailAddress" placeholder="Enter email address">
+<input type="number" name="quantity" min="1" max="10" step="1" value="1">
+<input type="range" name="rating" min="1" max="5" step="1" value="3">
+<input type="search" name="searchQuery" placeholder="Search...">
+<input type="image" src="submit.png" alt="Submit">
+<input type="week" name="selectedWeek">
+<input type="url" name="websiteUrl" placeholder="Enter website URL">
+<input type="datetime-local" name="selectedDateTime">
+<input type="month" name="selectedMonth">
+<input type="time" name="selectedTime">
